@@ -4,4 +4,4 @@ Hi Folks! This is my project for UTS. The results of this project are still far 
 # Connect-With-Me
 <a href="https://www.instagram.com/yusufkata03/">Belinda Dwi Sukma P </a> - 2110218
 
-<a href="https://github.com/Belindaputri90/tugas-uts-framework-programming"> La Belle Blanc </a>
+<a href="https://github.com/tugas-uts-framework-programming"> La Belle Blanc </a>
